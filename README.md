@@ -1,2 +1,2 @@
-# desafio_amigo_secreto
-Desafio Alura Amigo Secreto
+# DESAFIO AMIGO SECRETO
+Permite ingresar amigos por pantalla para luego realizar el respectivo sorteo
